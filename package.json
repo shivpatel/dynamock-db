@@ -1,0 +1,26 @@
+{
+  "name": "dynamock-db",
+  "version": "0.1.0",
+  "description": "Ultralight AWS DynamoDB mock for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivpatel/dynamock-db.git"
+  },
+  "keywords": [
+    "aws",
+    "dynamodb",
+    "dynamock",
+    "mock",
+    "node.js"
+  ],
+  "author": "Shiv Patel",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/shivpatel/dynamock-db/issues"
+  },
+  "homepage": "https://github.com/shivpatel/dynamock-db#readme"
+}
